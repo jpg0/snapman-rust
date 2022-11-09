@@ -1,0 +1,3 @@
+snapraid_config = "/etc/snapraid.conf"
+snapraid_binary = "/usr/bin/snapraid"
+log_level = "INFO"
